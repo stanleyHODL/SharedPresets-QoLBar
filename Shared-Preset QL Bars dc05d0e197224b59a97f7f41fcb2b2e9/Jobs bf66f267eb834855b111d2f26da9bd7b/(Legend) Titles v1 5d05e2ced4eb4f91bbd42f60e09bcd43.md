@@ -1,0 +1,9 @@
+# (Legend) Titles v1
+
+OP: aisu
+Preview: https://cdn.discordapp.com/attachments/795684290750971945/796465410958295070/unknown.png
+Tags: TITLES
+
+```json
+H4sIAAAAAAAEAJ2SQU/CQBCF/0ozeNxUqFrJ3gQPHghqihgjHpbttmxou2Z3emgI/91ZCqmiB/Cw6Wbm7fvepLOBC2w+FXB4NpORsCGdsakynbOgrQCDmcbCS3ZfR4VkZSzKGifaIfD3zbHJof/NYypKL5ioXFWpsI233b2JyK5enu/EeRTfRHGvN1upoLWl5tiUpaAbh0v0aQOnMFhAp1kAbNm5mKuoxbwUqEuBp/GOxP8CD4ct+EnZTEk8iftT67EfDB50qu5S0qOtFT2nXLmxzatOcUX/4PqsaONCCRu0W/FHFOnbO+pcO73UhcYGeJ/BvZHrhIIAHzAY1Yim2geIb39FfMwymgl4lytpHKoynNalslq6cE5TGhux4KhBmd5opmEc9rfdqIkUfokHIS3c1ByqIyHXuTV1lboWvP0CwroaEBIDAAA=
+```
